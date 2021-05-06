@@ -1,4 +1,6 @@
 "# go_basic_algorithm" 
+
+
 1、冒泡排序（Bubble Sort）
 算法描述：
 比较相邻的元素。如果第一个比第二个大，就交换它们两个；
